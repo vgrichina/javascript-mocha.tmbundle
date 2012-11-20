@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>afterEach(function(){
+	<string>afterEach(function() {
   $0
-})</string>
+});</string>
 	<key>name</key>
 	<string>bdd - after each</string>
 	<key>tabTrigger</key>

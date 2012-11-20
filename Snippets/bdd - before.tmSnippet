@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>before(function(){
+	<string>before(function() {
   $0
-})</string>
+});</string>
 	<key>name</key>
 	<string>bdd - before</string>
 	<key>tabTrigger</key>

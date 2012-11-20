@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>after(function(){
+	<string>after(function() {
   $0
-})</string>
+});</string>
 	<key>name</key>
 	<string>bdd - after</string>
 	<key>tabTrigger</key>
